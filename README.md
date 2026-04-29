@@ -1,7 +1,7 @@
-<!-- █▓▒░ ELITE HACKER BANNER ░▒▓█ -->
+<!-- █▓▒░ ECOM GROWTH SYSTEM ░▒▓█ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Scaling+Ads+with+Data+Precision;Google+Ads+%7C+Meta+Ads+%7C+GA4+%7C+GTM;Conversion+Tracking+%3D+Profit;High-Ticket+Performance+Marketing+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Ecommerce+Growth+Engineer;Scaling+Stores+with+Paid+Ads;ROAS+Focused+Systems;Tracking+%2B+Data+%3D+Profit" />
 </p>
 
 <p align="center">
@@ -11,16 +11,19 @@
 ---
 
 # █▓▒░ anonymous-cafe ░▒▓█
-> `Performance Marketing Engineer`  
-> `Tracking Infrastructure Specialist`  
-> `Built for ROI Scaling`
+> `Ecommerce Performance Marketing Specialist`  
+> `Paid Ads + Tracking + Scaling Systems`
 
 ---
 
-## ⚡ POSITIONING (IMPORTANT)
+## ⚡ POSITIONING
 
 ```bash
-I do NOT run random ads.
-I build PROFITABLE acquisition systems.
+I help ecommerce brands scale profitably using:
 
-If your tracking is broken → your ads will fail.
+✔ Google Ads
+✔ Meta Ads
+✔ Advanced Tracking Systems
+
+No tracking = no scaling
+No data = wasted ad spend
