@@ -1,0 +1,20 @@
+anonymous-cafe/
+│
+├── client/
+├── server/
+├── docs/
+│   ├── 01-overview.md
+│   ├── 02-architecture.md
+│   ├── 03-installation.md
+│   ├── 04-api.md
+│   ├── 05-security.md
+│   ├── 06-deployment.md
+│   ├── 07-roadmap.md
+│   └── assets/
+│       ├── banner.png
+│       ├── diagram.png
+│       └── screenshots/
+│
+├── .env.example
+├── package.json
+└── README.md
