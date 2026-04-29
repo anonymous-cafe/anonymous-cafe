@@ -3,55 +3,68 @@
 </p>
 
 <h1 align="center">☕ Anonymous Cafe</h1>
-<h4 align="center">A privacy-focused platform for anonymous interaction</h4>
+
+<p align="center">
+  <b>Privacy-first anonymous interaction platform</b><br/>
+  Secure • Scalable • Minimal
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/anonymous-cafe/anonymous-cafe?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/anonymous-cafe/anonymous-cafe?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/anonymous-cafe/anonymous-cafe?style=for-the-badge" />
+  <img src="https://img.shields.io/github/license/anonymous-cafe/anonymous-cafe?style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 About The Project
+## 📌 Overview
 
-Anonymous Cafe is a platform designed to enable users to interact anonymously in a secure and controlled environment.
+**Anonymous Cafe** is designed to enable secure, anonymous communication without exposing user identity.
 
-It focuses on:
-- Privacy-first communication
-- Anonymous user experience
-- Lightweight and scalable architecture
+This project focuses on:
+- Privacy-centric design
+- Anonymous interaction layer
+- Modular full-stack architecture
 
-⚠️ Some implementation details are not available — update required.
-
----
-
-## ✨ Features
-
-- 🔐 Anonymous user interaction
-- ⚡ Fast and lightweight system
-- 🧩 Modular client-server architecture
-- 🌐 Web-based interface
-- 📦 Environment-based configuration
+⚠️ Some internal implementation details are not publicly documented — update recommended.
 
 ---
 
-## 🛠 Tech Stack
+## 🎯 Vision
 
-Based on repository structure (cannot fully verify stack):
-
-- JavaScript / Node.js (assumed from `package.json`)
-- Client-Server Architecture
-- Possibly:
-  - Express.js (not confirmed)
-  - Frontend framework (not confirmed)
-
-⚠️ Update this section with exact technologies.
+To build a platform where users can:
+- Communicate freely without identity exposure
+- Maintain privacy without compromising usability
+- Operate in a secure, scalable environment
 
 ---
 
-## 📦 Installation
+## ✨ Core Features
 
-```bash
-# Clone the repository
-git clone https://github.com/anonymous-cafe/anonymous-cafe.git
+### 🔐 Privacy First
+- No direct identity exposure (assumed based on concept)
+- Anonymous session handling (verification required)
 
-# Go to project folder
-cd anonymous-cafe
+### ⚡ Performance
+- Lightweight architecture
+- Optimized request handling (not fully verified)
 
-# Install dependencies
-npm install
+### 🧩 Modular Design
+- Separate client & server layers
+- Easy to scale and extend
+
+### 🌐 Web-Based Interface
+- Accessible via browser
+- Clean and minimal UX
+
+---
+
+## 🏗 Architecture
+
+```text
+Client (Frontend)
+   ↓
+API Layer (Server)
+   ↓
+Database (Not confirmed)
