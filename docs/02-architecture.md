@@ -1,0 +1,2 @@
+# Architecture
+Client → Server → DB

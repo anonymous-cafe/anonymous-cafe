@@ -1,20 +1,7 @@
-<p align="center">
-  <img src="./docs/banner.png" alt="Anonymous Cafe Banner" />
-</p>
+# ☕ Anonymous Cafe
 
-<h1 align="center">☕ ANONYMOUS CAFE</h1>
+## Overview
+Privacy-first anonymous communication platform.
 
-<p align="center">
-  <code>> secure • anonymous • decentralized mindset</code>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-00ff00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/privacy-maximum-black?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/anonymous-cafe/anonymous-cafe?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/anonymous-cafe/anonymous-cafe?style=for-the-badge" />
-</p>
-
----
-
-## 🧠 SYSTEM OVERVIEW
+## Docs
+See /docs folder.
