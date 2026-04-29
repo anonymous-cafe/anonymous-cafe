@@ -1,7 +1,5 @@
-# ☕ Anonymous Cafe
+## 👁️ Visitor Counter
 
-## Overview
-Privacy-first anonymous communication platform.
-
-## Docs
-See /docs folder.
+<p align="center">
+  <img src="https://count.getloli.com/get/@anbuinfosec?theme=moebooru" alt="Visitor Count" />
+</p>
