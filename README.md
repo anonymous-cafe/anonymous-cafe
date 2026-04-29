@@ -1,29 +1,130 @@
-<!-- █▓▒░ ECOM GROWTH SYSTEM ░▒▓█ -->
+<!-- id="lux9site" -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>anonymous-cafe | Ecommerce Growth</title>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Ecommerce+Growth+Engineer;Scaling+Stores+with+Paid+Ads;ROAS+Focused+Systems;Tracking+%2B+Data+%3D+Profit" />
-</p>
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #0a0a0a;
+  color: #eaeaea;
+}
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anonymous-cafe&label=VISITORS&color=00ff00&style=flat" />
-</p>
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  padding: 60px 0;
+}
 
----
+h1, h2 {
+  color: #d4af37;
+}
 
-# █▓▒░ anonymous-cafe ░▒▓█
-> `Ecommerce Performance Marketing Specialist`  
-> `Paid Ads + Tracking + Scaling Systems`
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+}
 
----
+.hero h1 {
+  font-size: 42px;
+}
 
-## ⚡ POSITIONING
+.hero p {
+  color: #aaa;
+  font-size: 18px;
+}
 
-```bash
-I help ecommerce brands scale profitably using:
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 28px;
+  border: 1px solid #d4af37;
+  color: #d4af37;
+  text-decoration: none;
+  transition: 0.3s;
+}
 
-✔ Google Ads
-✔ Meta Ads
-✔ Advanced Tracking Systems
+.btn:hover {
+  background: #d4af37;
+  color: #000;
+}
 
-No tracking = no scaling
-No data = wasted ad spend
+.section {
+  margin-top: 80px;
+}
+
+.card {
+  background: #111;
+  padding: 25px;
+  margin-top: 20px;
+  border-left: 3px solid #d4af37;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 80px;
+  color: #666;
+}
+</style>
+</head>
+
+<body>
+
+<div class="hero">
+  <h1>Scaling Ecommerce Brands Profitably</h1>
+  <p>Google Ads • Meta Ads • Tracking Systems</p>
+  <a href="#" class="btn">Book a Call</a>
+</div>
+
+<div class="container">
+
+  <div class="section">
+    <h2>About</h2>
+    <p>
+      I help ecommerce brands scale using paid ads + advanced tracking.
+      No guesswork. Only data-driven growth.
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Results</h2>
+
+    <div class="card">
+      <strong>ROAS 4.8x</strong><br>
+      Revenue +140%<br>
+      CPA -38%
+    </div>
+
+    <div class="card">
+      <strong>Lead Cost -48%</strong><br>
+      Conversion Rate +67%
+    </div>
+
+  </div>
+
+  <div class="section">
+    <h2>System</h2>
+    <p>
+      Tracking → Data → Testing → Scaling → Profit
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+    <p>Calendly: your-link</p>
+  </div>
+
+</div>
+
+<div class="footer">
+  © anonymous-cafe
+</div>
+
+</body>
+</html>
