@@ -1,113 +1,26 @@
-# 🚀 Performance Marketing & Tracking Specialist
+<!-- █▓▒░ HACKER STYLE HEADER WITH ANIMATION ░▒▓█ -->
 
-📊 ROI-focused Paid Media & Analytics Strategist  
-📜 Certified in Google Ads, Meta Ads, GA4, GTM & Conversion Tracking  
-🎯 Full-Funnel Growth Expert for Service & E-commerce Businesses  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Performance+Marketing+%7C+Tracking+Engineer;Google+Ads+%7C+Meta+Ads+%7C+GA4+%7C+GTM;Data-Driven+Growth+Operator;Scaling+Campaigns+with+Precision" />
+</p>
 
----
-
-## 🔥 About Me
-
-I specialize in building **high-performance ad campaigns + accurate tracking systems** that drive measurable growth.
-
-From **traffic acquisition → conversion tracking → scaling**, I handle the entire funnel with a data-driven approach.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anonymous-cafe&label=Profile+Views&color=00ff00&style=flat" />
+</p>
 
 ---
 
-## 🧠 Core Skills
-
-### 🔥 Google Ads (PPC Advertising)
-
-- Google Ads Account Setup & Management  
-- Search, Display, Shopping & Performance Max  
-- YouTube Ads & Video Campaigns  
-- Keyword Research & Competitor Analysis  
-- Ad Copy Optimization & CTR Improvement  
-- Smart Bidding & Budget Optimization  
-- Remarketing & Retargeting  
-- Conversion Tracking (GA4 + GTM)  
-- Google Merchant Center Setup  
-- Weekly Optimization & Scaling  
+# █▓▒░ anonymous-cafe ░▒▓█
+> `Performance Marketing Operative`  
+> `Conversion Tracking Engineer`  
+> `ROI > Everything`
 
 ---
 
-### 🎯 Meta Ads (Facebook & Instagram)
+## ⚡ SYSTEM STATUS
 
-- Full Ads Manager Setup  
-- Lead Generation & Sales Funnel  
-- Audience Research & Targeting  
-- Lookalike & Custom Audiences  
-- A/B Testing Strategy  
-- Facebook Pixel Setup  
-- Conversion API (CAPI)  
-- Retargeting & Scaling  
-- ROAS Optimization  
-
----
-
-### 📊 Tracking, Analytics & Technical
-
-- GA4 Setup & Event Tracking  
-- Google Tag Manager (GTM) Configuration  
-- Server-Side Tracking  
-- Facebook Pixel + CAPI Integration  
-- Google Ads Conversion Tracking  
-- E-commerce Tracking  
-- Data Debugging & Validation  
-- Looker Studio Reporting  
-
----
-
-### 📈 CRO & Funnel Growth
-
-- Full Funnel Strategy (TOF–MOF–BOF)  
-- Landing Page CRO  
-- User Behavior Analysis  
-- A/B Testing  
-- Conversion Rate Optimization  
-- Data-Driven Decision Making  
-
----
-
-### 💼 Marketing & Performance
-
-- Performance Marketing  
-- Media Buying  
-- Paid Media Strategy  
-- Marketing Analytics  
-- Campaign Optimization  
-- Weekly Scaling Framework  
-
----
-
-## 🏆 Why Choose Me?
-
-- ✅ Working Since 2023  
-- ✅ Expert in Google & Meta Ads  
-- ✅ Advanced Tracking Specialist  
-- ✅ Weekly Optimization System  
-- ✅ ROI-Focused Strategy  
-
-💡 **High-performance ads + precise tracking = better ROI**
-
----
-
-## 📂 Projects
-
-👉 [anonymous-cafe](https://github.com/anonymous-cafe/anonymous-cafe)
-
----
-
-## 📬 Contact
-
-- 📧 Email: your-email@example.com  
-- 🌐 Portfolio: your-portfolio-link  
-- 💼 LinkedIn: your-linkedin-profile  
-
----
-
-## ⭐ Support
-
-If you like my work, consider giving a ⭐ to this repository!
-
----
+```bash
+> Loading growth engine...
+> Initializing tracking systems...
+> Connecting ad platforms...
+> STATUS: READY TO SCALE
