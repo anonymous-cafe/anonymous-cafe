@@ -8,40 +8,48 @@
 <style>
 body {
   margin: 0;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Courier New', monospace;
   background: #0a0a0a;
   color: #eaeaea;
+  overflow-x: hidden;
 }
 
-.container {
-  width: 90%;
-  max-width: 1100px;
-  margin: auto;
-  padding: 60px 0;
-}
-
-h1, h2 {
+/* Glow effect */
+.glow {
   color: #d4af37;
+  text-shadow: 0 0 5px #d4af37, 0 0 10px #d4af37;
 }
 
+/* Hero */
 .hero {
   text-align: center;
-  padding: 100px 20px;
+  padding: 120px 20px;
 }
 
-.hero h1 {
-  font-size: 42px;
+/* Typing animation */
+.typing {
+  font-size: 28px;
+  border-right: 2px solid #d4af37;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 0;
+  animation: typing 4s steps(40, end) forwards, blink 1s infinite;
 }
 
-.hero p {
-  color: #aaa;
-  font-size: 18px;
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
 }
 
+@keyframes blink {
+  50% { border-color: transparent }
+}
+
+/* Button */
 .btn {
   display: inline-block;
-  margin-top: 20px;
-  padding: 12px 28px;
+  margin-top: 30px;
+  padding: 12px 30px;
   border: 1px solid #d4af37;
   color: #d4af37;
   text-decoration: none;
@@ -51,22 +59,57 @@ h1, h2 {
 .btn:hover {
   background: #d4af37;
   color: #000;
+  box-shadow: 0 0 15px #d4af37;
+}
+
+/* Sections */
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  padding: 60px 0;
 }
 
 .section {
   margin-top: 80px;
 }
 
+/* Cards */
 .card {
   background: #111;
   padding: 25px;
   margin-top: 20px;
   border-left: 3px solid #d4af37;
+  transition: 0.3s;
 }
 
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 15px rgba(212,175,55,0.3);
+}
+
+/* Fade animation */
+.fade {
+  opacity: 0;
+  transform: translateY(30px);
+  animation: fadeIn 1s forwards;
+}
+
+.fade:nth-child(1) { animation-delay: 0.3s; }
+.fade:nth-child(2) { animation-delay: 0.6s; }
+.fade:nth-child(3) { animation-delay: 0.9s; }
+
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Footer */
 .footer {
   text-align: center;
-  margin-top: 80px;
+  margin: 80px 0;
   color: #666;
 }
 </style>
@@ -75,46 +118,50 @@ h1, h2 {
 <body>
 
 <div class="hero">
-  <h1>Scaling Ecommerce Brands Profitably</h1>
-  <p>Google Ads • Meta Ads • Tracking Systems</p>
+  <h1 class="glow">anonymous-cafe</h1>
+
+  <div class="typing glow">
+    Scaling Ecommerce Brands Profitably...
+  </div>
+
   <a href="#" class="btn">Book a Call</a>
 </div>
 
 <div class="container">
 
-  <div class="section">
-    <h2>About</h2>
+  <div class="section fade">
+    <h2 class="glow">About</h2>
     <p>
-      I help ecommerce brands scale using paid ads + advanced tracking.
-      No guesswork. Only data-driven growth.
+      I build high-performance ad systems with precise tracking.
+      No guesswork. Only data-driven scaling.
     </p>
   </div>
 
-  <div class="section">
-    <h2>Results</h2>
+  <div class="section fade">
+    <h2 class="glow">Results</h2>
 
     <div class="card">
-      <strong>ROAS 4.8x</strong><br>
-      Revenue +140%<br>
-      CPA -38%
+      ROAS: 4.8x <br>
+      Revenue: +140% <br>
+      CPA: -38%
     </div>
 
     <div class="card">
-      <strong>Lead Cost -48%</strong><br>
-      Conversion Rate +67%
+      Lead Cost: -48% <br>
+      Conversion Rate: +67%
     </div>
 
   </div>
 
-  <div class="section">
-    <h2>System</h2>
+  <div class="section fade">
+    <h2 class="glow">System</h2>
     <p>
       Tracking → Data → Testing → Scaling → Profit
     </p>
   </div>
 
-  <div class="section">
-    <h2>Contact</h2>
+  <div class="section fade">
+    <h2 class="glow">Contact</h2>
     <p>Email: your@email.com</p>
     <p>Calendly: your-link</p>
   </div>
@@ -122,7 +169,7 @@ h1, h2 {
 </div>
 
 <div class="footer">
-  © anonymous-cafe
+  █▓▒░ SYSTEM READY ░▒▓█
 </div>
 
 </body>
